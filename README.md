@@ -6,6 +6,10 @@ We used ***Remix - Ethereum IDE*** for the smart contract (```.sol```), then dep
 
 ***Metamsk*** and ***Uniswap*** are both used for demonstration as well.
 
+The structure is as follows:
+<br>
+<img src="structure.png" alt="drawing" width="450"/>
+
 ## Run
 1. Make sure you have ***Metamask*** running (usually with chrome).
 
